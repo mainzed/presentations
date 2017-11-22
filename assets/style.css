@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i');
 
 * {
-  font-family: "Roboto" !important;
-  font-weight: black !important;
+  
+
 }
 
 body {
@@ -25,6 +25,19 @@ div.pitch-menu-logo {
 h4, h3  {
   font-size: 50px;
 }
+
+.reveal .slide-background {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  color: black;
+  font-family: "Roboto";
+}
+
 
 @media only screen and (max-width: 500px) {
   body {
