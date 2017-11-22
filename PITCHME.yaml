@@ -1,1 +1,5 @@
-theme-override : matthias_custom_css.css
+theme-override : assets/style.css
+theme : moon
+logo : assets/logo.png
+slide-number : true
+footnote : "© 2017 Mainzed"
