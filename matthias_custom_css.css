@@ -1,3 +1,9 @@
+* {
+  font-family: "Arial" !important;
+  font-weight: black !important;
+  font-size: 50px !important;
+}
+
 body {
   background-color: palevioletred;
   font-family: "Arial";
