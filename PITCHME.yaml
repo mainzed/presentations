@@ -1,5 +1,6 @@
 theme-override : assets/style.css
 theme : moon
+vertical-center : false
 logo : assets/logo.png
 slide-number : true
 footnote : "© 2017 Mainzed"
