@@ -11,3 +11,11 @@ body {
 div.pitch-menu-logo {
   display: none;
 }
+
+#title-footer {
+  opacity: 0;
+}
+
+#title-footer:hover {
+  opacity: 1;
+}
