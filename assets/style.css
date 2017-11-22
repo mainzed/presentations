@@ -26,6 +26,10 @@ h4, h3  {
   font-size: 50px;
 }
 
+div#gp-logo img {
+  width: 200px;
+}
+
 .reveal .slide-background {
   -webkit-background-size: cover !important;
   -moz-background-size: cover !important;
