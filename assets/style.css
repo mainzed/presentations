@@ -21,3 +21,7 @@ div.pitch-menu-logo {
 #title-footer:hover {
   opacity: 1;
 }
+
+h4, h3  {
+  font-size: 50px;
+}
