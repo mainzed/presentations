@@ -1,13 +1,13 @@
-@import url('https://fonts.googleapis.com/css?family=Spectral:800');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i');
 
 * {
-  font-family: "Spectral" !important;
+  font-family: "Roboto" !important;
   font-weight: black !important;
 }
 
 body {
-  background-color: palevioletred;
-  font-family: "Arial";
+  background-color: white;
+  font-family: "Roboto", sans-serif;
 }
 
 div.pitch-menu-logo {
