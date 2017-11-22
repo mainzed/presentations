@@ -4,7 +4,7 @@
 
 ![matthias](https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg)
 
-![test](pics/Koala_climbing_tree.jpg)
+![test](assets/Koala_climbing_tree.jpg)
 
 <span class="gold">Pitch
 
