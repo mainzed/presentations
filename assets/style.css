@@ -42,7 +42,7 @@ div#gp-logo img {
 }
 
 .reveal img, .reveal video, .reveal iframe {
-  max-width: 50%;
+  max-width: 40%;
   max-height: 95%;
 }
 
