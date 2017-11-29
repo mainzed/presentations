@@ -26,4 +26,4 @@ Ich bin Anne!
 
 ---
 
-![mainzed figuren](20170921_gtDHRMU_ 014.jpg)
+![mainzed figuren](assets/20170921_gtDHRMU_ 014.jpg)
