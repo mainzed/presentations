@@ -2,7 +2,8 @@
 
 # Hallo
 
-![Anne](https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg)
+![Anne](assets/Koala_climbing_tree.jpg)
+![Logo](assets/mainzedlogo.svg)
 ---
 
 ### Übersicht
