@@ -10,6 +10,7 @@
 
 * Die Anfänge 
 * Karriere
+
 ⋅⋅⋅Zwischenstationen
 ⋅⋅⋅Erlebnisse
 
