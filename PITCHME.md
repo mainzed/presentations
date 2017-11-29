@@ -2,6 +2,8 @@
 
 # Hallo
 
+Ich bin Anne!
+
 ![Anne](assets/Koala_climbing_tree.jpg)
 
 ---
@@ -14,5 +16,9 @@
 * Karriere
 * Ziele
 
+---
+
+# "Zitate schinden Eindruck bei dem Betrachter."
+## -Autor
 
 
