@@ -1,9 +1,9 @@
 @title[Introduction]
+![](http://mainzed.org/mainzedlogo.svg)
 
 # Hallo
 
 ![Anne](assets/Koala_climbing_tree.jpg)
-![](http://mainzed.org/mainzedlogo.svg)
 ---
 
 ### Übersicht
