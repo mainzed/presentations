@@ -7,20 +7,19 @@ Subhead
 ![Beliebiges Foto](assets/Koala_climbing_tree.jpg)
 
 ---
-
-
-
+>
+>
+>
 ### Aufzählung
-
-
-
+>
+>
 * Simple 
 * Liste
 * mit Aufzählungspunkten
 
 ---
-
-
+>
+>
 # *"Hier kann ein beliebiges Zitat stehen!"*
 ## -Autor
 
