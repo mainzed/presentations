@@ -7,6 +7,7 @@
 body {
   background-color: white;
   font-family: "Roboto", sans-serif;
+  font-size: 1em;
 }
 
 div.pitch-menu-logo {
@@ -48,6 +49,11 @@ div#gp-logo img {
 .reveal img, .reveal video, .reveal iframe {
   max-width: 40%;
   max-height: 95%;
+}
+
+.reveal section img {
+  border: 0;
+  box-shadow: none;
 }
 
 
