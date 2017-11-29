@@ -1,29 +1,29 @@
 @title[Introduction]
 
-# Hallo
+# Begrüßungsfolie
 
-Ich bin Anne!
+Subhead
 
-![Anne](assets/Koala_climbing_tree.jpg)
-
----
-
-
-
-### Übersicht
-
-
-
-* Die Anfänge 
-* Karriere
-* Ziele
+![Beliebiges Foto](assets/Koala_climbing_tree.jpg)
 
 ---
 
 
-# *"Zitate schinden Eindruck bei dem Betrachter."*
+
+### Aufzählung
+
+
+
+* Simple 
+* Liste
+* mit Aufzählungspunkten
+
+---
+
+
+# *"Hier kann ein beliebiges Zitat stehen!"*
 ## -Autor
 
 ---
 
-![mainzed figuren](assets/20170921_gtDHRMU_ 014.jpg)
+![place your foto](assets/20170921_gtDHRMU_ 014.jpg)

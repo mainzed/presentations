@@ -47,8 +47,8 @@ div#gp-logo img {
 }
 
 .reveal img, .reveal video, .reveal iframe {
-  max-width: 40%;
-  max-height: 95%;
+  width: 50%;
+  height: auto;
 }
 
 .reveal section img {
@@ -60,6 +60,9 @@ div#gp-logo img {
   margin-left: 20px;
   width: 189px;
   margin-top: 20px;
+  width: 20%;
+  height: auto;
+}
 
 
 @media only screen and (max-width: 500px) {
