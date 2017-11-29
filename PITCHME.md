@@ -1,5 +1,4 @@
 @title[Introduction]
-![](http://mainzed.org/mainzedlogo.svg)
 
 # Hallo
 

@@ -1,5 +1,5 @@
 theme-override : assets/style.css
-logo: assets/mainzedlogo.png
+logo: assets/mainzedlogo.svg
 vertical-center : false
 slide-number : true
 footnote : "© 2017 Mainzed"
