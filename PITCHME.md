@@ -3,7 +3,7 @@
 # Hallo
 
 ![Anne](assets/Koala_climbing_tree.jpg)
-![](assets/mainzedlogo.svg)
+![](assets/mainzedlogo.png)
 ---
 
 ### Übersicht
