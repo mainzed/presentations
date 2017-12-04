@@ -1,5 +1,7 @@
 @title[Introduction]
 
+
+
 # Begrüßungsfolie
 
 Subhead
@@ -7,8 +9,8 @@ Subhead
 ![Beliebiges Foto](assets/Koala_climbing_tree.jpg)
 
 ---
-           
-             
+
+
               
 ### Aufzählung
      
@@ -17,6 +19,7 @@ Subhead
 * mit Aufzählungspunkten
 
 ---
+
 
 # *"Hier kann ein beliebiges Zitat stehen!"*
 ## -Autor*in
