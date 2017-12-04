@@ -18,7 +18,8 @@ Subhead
 * Liste
 * mit Aufzählungspunkten
 
----                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               # *"Hier kann ein beliebiges Zitat stehen!"*
+---
+                                                                                                                                                                                                                                                                                                                                            # *"Hier kann ein beliebiges Zitat stehen!"*
 ## -Autor*in
 
 ---
