@@ -57,14 +57,9 @@ div#gp-logo img {
   margin-left: 20px;
   width: 189px;
   margin-top: 20px;
-  width: 20%;
   height: auto;
 }
 
-#gp-logo img {
-  max-height: 8em;
-  max-width: none;
-}
 
 .gp-menu .slide-menu {
   background-color: white !important;
@@ -100,6 +95,10 @@ div#gp-logo img {
   table-layout: fixed;
   margin: 0;
   padding: 0;
+}
+
+.short-link {
+  color: black;
 }
 
 @media only screen and (max-width: 500px) {
