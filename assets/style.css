@@ -97,13 +97,8 @@ div#gp-logo img {
   padding: 0;
 }
 
-div.pitch-menu .git-box .short-link {
-  width: 8em;
-  font-size: 1em;
-  color: green;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  font-family: 'Roboto', sans-serif;
+.short-link {
+  color: black !important;
 }
 
 @media only screen and (max-width: 500px) {
