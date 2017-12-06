@@ -61,6 +61,11 @@ div#gp-logo img {
   height: auto;
 }
 
+#gp-logo img {
+  max-height: 8em;
+  max-width: none;
+}
+
 .gp-menu .slide-menu {
   background-color: white !important;
   z-index: 200;
