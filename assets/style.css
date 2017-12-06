@@ -46,8 +46,8 @@ h4, h3  {
 .reveal section img {
   border: 0;
   box-shadow: none;
-  max-width: 50%;
-  max-height: auto;
+  max-width: 66%;
+  max-height: 66%;
 }
 
 div#gp-logo img {
