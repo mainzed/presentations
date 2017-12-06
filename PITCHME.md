@@ -4,7 +4,7 @@
 
 # Begrüßungsfolie
 
-#### Subhead
+#### Subhead mit allem was wichtig für die Einstiegsfolie erscheint
 
 ---
 
