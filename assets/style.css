@@ -84,7 +84,7 @@ div#gp-logo img {
   height: calc(100% - 60px);
   overflow-x: hidden;
   overflow-y: auto;
-  color: white;
+  color: white !important;
 }
 
 .gp-menu .slide-menu-toolbar {
