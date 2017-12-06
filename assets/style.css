@@ -72,6 +72,29 @@ div#gp-logo img {
   transition: transform 0.3s;
   font-size: 16px;
   font-weight: normal;
+  color: black;
+}
+
+.gp-menu .slide-menu-panel {
+  position: absolute;
+  width: calc(100% - 20px);
+  padding-left: 10px;
+  padding-right: 10px;
+  visibility: hidden;
+  height: calc(100% - 60px);
+  overflow-x: hidden;
+  overflow-y: auto;
+  color: white;
+}
+
+.gp-menu .slide-menu-toolbar {
+  height: 60px;
+  width: 100%;
+  font-size: 1.8em;
+  display: table;
+  table-layout: fixed;
+  margin: 0;
+  padding: 0;
 }
 
 @media only screen and (max-width: 500px) {
