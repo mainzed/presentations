@@ -8,7 +8,7 @@ body {
   background-color: white;
   font-family: "Roboto", sans-serif;
   font-size: 1em;
-  color: black;
+  color: black !important;
 }
 
 div.pitch-menu-logo {
