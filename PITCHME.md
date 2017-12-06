@@ -6,6 +6,8 @@
 
 #### Subhead mit allem was wichtig für die Einstiegsfolie erscheint
 
+![Logos](assets/logos_nebeneinander.png)
+
 ---
 
 
