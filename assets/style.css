@@ -30,8 +30,8 @@ h4, h3  {
   font-size: 50px;
 }
 
-div#gp-logo img {
-  width: 200px !important;
+#gp-logo img {
+  max-width: 750;
 }
 
 .reveal .slide-background {
