@@ -57,6 +57,12 @@ div#gp-logo img {
   max-height: none ;
 }
 
+/* logos start page */
+img:nth-child(0) {
+  max-width: 20%;
+  background-color: pink;
+}
+
 
 .gp-menu .slide-menu {
   background-color: white !important;
