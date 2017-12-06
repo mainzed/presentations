@@ -42,7 +42,7 @@ div#gp-logo img {
 }
 
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
-  color: black !important;
+  color: black;
   font-family: "Roboto";
 }
 
@@ -65,7 +65,7 @@ div#gp-logo img {
 }
 
 .gp-menu .slide-menu {
-  background-color: white;
+  background-color: white !important;
   z-index: 200;
   position: fixed;
   top: 0;
