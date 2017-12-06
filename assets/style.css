@@ -43,14 +43,11 @@ h4, h3  {
   font-family: "Roboto";
 }
 
-.reveal img, .reveal video, .reveal iframe {
-  width: 50%;
-  height: auto;
-}
-
 .reveal section img {
   border: 0;
   box-shadow: none;
+  max-width: 50%;
+  max-height: auto;
 }
 
 div#gp-logo img {
