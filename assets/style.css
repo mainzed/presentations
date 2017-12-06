@@ -97,6 +97,10 @@ div#gp-logo img {
   padding: 0;
 }
 
+.git-label {
+  color: black !important;
+}
+
 .short-link {
   color: black !important;
 }
