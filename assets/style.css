@@ -59,8 +59,7 @@ div#gp-logo img {
 
 /* logos start page */
 section.present img:nth-child(1) {
-  max-width: 20%;
-  background-color: pink;
+  max-width: 45%;
 }
 
 
