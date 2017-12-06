@@ -98,11 +98,11 @@ div#gp-logo img {
 }
 
 .gp-menu .slide-menu-panel a {
-  color: black;
+  color: black !important;
 }
 
 .gp-menu .slide-menu-panel a:hover {
-  color: grey;
+  color: grey !important;
 }
 
 .git-label {
