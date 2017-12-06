@@ -101,6 +101,10 @@ div#gp-logo img {
   color: black;
 }
 
+.gp-menu .slide-menu-panel a:hover {
+  color: grey;
+}
+
 .git-label {
   color: black !important;
 }
