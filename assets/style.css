@@ -60,6 +60,8 @@ div#gp-logo img {
 /* logos start page */
 section.present img:nth-child(1) {
   max-width: 45%;
+  position: fixed;
+  bottom: 0;
 }
 
 
