@@ -58,13 +58,22 @@ div#gp-logo img {
 }
 
 /* logos start page */
-section.present img:nth-child(1) {
+
+section {
+  background-color: red;
+}
+
+section:nth-child(1) {
+  background-color: yellow;
+}
+
+/*section:nth-child(1) img {
   max-width: 45%;
   position: fixed;
   bottom: 0;
   left: 50%;
   margin-left: -175px;
-}
+}*/
 
 
 .gp-menu .slide-menu {
