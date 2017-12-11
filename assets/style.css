@@ -60,7 +60,11 @@ div#gp-logo img {
 /* logos start page */
 
 section {
-  background-color: red;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 section:nth-child(1) img {
