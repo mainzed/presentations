@@ -59,7 +59,7 @@ div#gp-logo img {
 
 
 section {
-  color: lightcoral;
+  background-color: lightcoral;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
