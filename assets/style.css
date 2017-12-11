@@ -59,7 +59,7 @@ div#gp-logo img {
 
 
 section {
-  display: flex !important;
+  display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
