@@ -57,7 +57,6 @@ div#gp-logo img {
   max-height: none ;
 }
 
-/* logos start page */
 
 section {
   display: flex;
@@ -67,17 +66,15 @@ section {
   align-items: center;
 }
 
-section:nth-child(1) img {
-  background-color: yellow;
-}
+/* logos start page */
 
-/*section:nth-child(1) img {
+section:nth-child(1) img {
   max-width: 45%;
   position: fixed;
   bottom: 0;
   left: 50%;
   margin-left: -175px;
-}*/
+}
 
 
 .gp-menu .slide-menu {
