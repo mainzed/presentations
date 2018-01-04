@@ -6,8 +6,8 @@
 
 #### Subhead mit allem was wichtig für die Einstiegsfolie erscheint
 
-![Logos](assets/logos_nebeneinander.png)
 
+<img class="logopicture" src="https://raw.githubusercontent.com/mainzed/presentations/master/assets/logos_nebeneinander.png" alt="Logos">
 ---
 
 
