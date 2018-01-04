@@ -9,6 +9,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-size: 1em;
   color: black !important;
+  font-weight: normal;
 }
 
 div.pitch-menu-logo {
